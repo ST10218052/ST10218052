@@ -43,7 +43,13 @@ Welcome to my GitHub profile! I am a passionate developer with experience in bac
 ✅ Smooth animations & object-oriented design  
 
   
-
+### diversy 
+🔹 **Features:**  
+ **Tech Stack:** PHP, HTML,CSS,JS,MYSQL
+✅ Inventory & order tracking  
+✅ Automated processing system  
+✅ Secure user authentication  
+🔗 **Repo:** (https://github.com/IIEMSA/prog6221-part1-ST10218052.git)
 ---
 
 ## 📫 Connect with Me  
