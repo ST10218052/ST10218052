@@ -43,10 +43,12 @@ Welcome to my GitHub profile! I am a passionate developer with experience in bac
 ✅ Smooth animations & object-oriented design  
 
 ###BOOK STORE ##
-🔹 **Tech Stack:** php,mysql 
+🔹 **Tech Stack:** php,mysql ,html ,js,css
 🔹 **Features:**  able to add and delete new books,edit and accept new students 
-✅ Interactive gameplay mechanics  
-✅ Smooth animations & object-oriented design  
+✅ Inventory & order tracking  
+✅ Automated processing system  
+✅ Secure user authentication 
+  🔗 **Repo:** (https://github.com/ST10218052/-book-store-.git)
   
 ### diversy 
 🔹 **Features:**  
