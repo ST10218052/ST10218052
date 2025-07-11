@@ -42,6 +42,11 @@ Welcome to my GitHub profile! I am a passionate developer with experience in bac
 ✅ Interactive gameplay mechanics  
 ✅ Smooth animations & object-oriented design  
 
+###BOOK STORE ##
+🔹 **Tech Stack:** php,mysql 
+🔹 **Features:**  able to add and delete new books,edit and accept new students 
+✅ Interactive gameplay mechanics  
+✅ Smooth animations & object-oriented design  
   
 ### diversy 
 🔹 **Features:**  
