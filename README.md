@@ -36,11 +36,11 @@ Welcome to my GitHub profile! I am a passionate developer with experience in bac
 
 🔗 **Repo:** (https://github.com/IIEMSA/prog6221-part1-ST10218052.git)
 
-### 🔹 **2D Game Development in Java**  
+### 🔹 **employee data **  
 🔹 **Tech Stack:** Java, JavaFX  
-🔹 **Features:**  
-✅ Interactive gameplay mechanics  
-✅ Smooth animations & object-oriented design  
+🔹 **Features:**  allows to add new employees and eddit their details
+
+🔗 **Repo:** (https://github.com/ST10218052/Employee-data.git)
 
 ###BOOK STORE ##
 🔹 **Tech Stack:** php,mysql ,html ,js,css
