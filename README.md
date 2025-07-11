@@ -18,28 +18,17 @@ Welcome to my GitHub profile! I am a passionate developer with experience in bac
 
 ## 🚀 Featured Projects  
 
-### 🔹 **Secure Customer Payments Portal**  
-🔹 **Tech Stack:** React/Angular, Node.js, MongoDB/MySQL  
-🔹 **Features:**  
-✅ Secure authentication (hashed & salted passwords)  
-✅ Input validation with RegEx  
-✅ Encrypted transactions & API security  
-
-🔗 **Repo:** [https://github.com/IIEMSA/dbas6211-assignment-1-ST10218052.git]  
-
 ### 🔹 **Bulk Cleaning Products Management System**  
 🔹 **Tech Stack:** C#, .NET, MySQL  
 🔹 **Features:**  
 ✅ Inventory & order tracking  
 ✅ Automated processing system  
 ✅ Secure user authentication  
-
-🔗 **Repo:** (https://github.com/IIEMSA/prog6221-part1-ST10218052.git)
+🔗 **Repo:** (https://github.com/ST10218052/C-web.git)
 
 ### 🔹 **employee data **  
 🔹 **Tech Stack:** Java, JavaFX  
 🔹 **Features:**  allows to add new employees and eddit their details
-
 🔗 **Repo:** (https://github.com/ST10218052/Employee-data.git)
 
 ###BOOK STORE ##
