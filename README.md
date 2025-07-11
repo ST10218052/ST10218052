@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I am a passionate developer with experience in bac
 ✅ Inventory & order tracking  
 ✅ Automated processing system  
 ✅ Secure user authentication  
-🔗 **Repo:** (https://github.com/LethaboMash71/DiverseyUser.git)
+🔗 **Repo:** (https://github.com/ST10218052/diversey.git)
 ---
 
 ## 📫 Connect with Me  
